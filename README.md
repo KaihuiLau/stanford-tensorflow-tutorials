@@ -3,10 +3,12 @@ This repository contains code examples for the course CS 20SI: TensorFlow for De
 It will be updated as the class progresses. <br>
 Detailed syllabus and lecture notes can be found here http://cs20si.stanford.edu
 
+# Jupyter Notebooks
+We are adding Jupyter notebooks for examples and assignments, with names "jupyter\_blah_blah.ipynb". You can now open up the notebook and execute and debug your TensorFlow code line by line! <br>
+We also added the inline TensorBoard visualization code. See [show_tf_graph.py](https://github.com/jiagengliu/stanford-tensorflow-tutorials/blob/master/examples/show_tf_graph.py) for instructions.
+
 # Note (as of July 11, 2017)
 I've updated the code to TensorFlow 1.2 and Python3, except the code for chatbot. I will update the code for chatbot soon.
-
-
 
 ## Models include: <br>
 ### In the folder "examples": <br>
