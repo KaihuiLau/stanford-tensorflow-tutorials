@@ -19,27 +19,24 @@ Windows 用户在安装支持GPU的TensorFlow过程中经常遇到问题，下�
 https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html
 
 ## Models include: <br>
+Code with checks indicate Jupyter notebooks. 
 ### In the folder "examples": <br>
-- [x] Linear Regression with Chicago's Fire-Theft dataset, 线性回归<br>
-- [x] Logistic Regression with MNIST, 逻辑回归<br>
-- [x] Word2vec skip-gram model with NCE loss, word2vec语言模型<br>
-- [ ] Convnets with MNIST, 卷积网络<br>
-- [ ] Autoencoder (by Nishith Khandwala), 自编码机<br>
-- [ ] Deepdream (by Jon Shlens), 风格迁移<br>
-- [ ] Character-level language modeling, 生成语言模型<br>
-<br>
-
-### In the folder "assignments":<br>
-- [ ] Style Transfer, 风格迁移<br>
-- [ ] Chatbot using sequence to sequence with attention, 基于seq2seq与注意力机制的聊天机器人<br>
-<br>
-
+- [x] Linear Regression with Chicago's Fire-Theft dataset, 线性回归
+- [x] Logistic Regression with MNIST, 逻辑回归
+- [x] Word2vec skip-gram model with NCE loss, word2vec语言模型
+- [ ] Convnets with MNIST, 卷积网络
+- [ ] Autoencoder (by Nishith Khandwala), 自编码机
+- [ ] Deepdream (by Jon Shlens), 风格迁移
+- [ ] Character-level language modeling, 生成语言模型
+### In the folder "assignments":
+- [ ] Style Transfer, 风格迁移
+- [ ] Chatbot using sequence to sequence with attention, 基于seq2seq与注意力机制的聊天机器人
 ### Misc<br>
-- [ ] Examples on how to use data readers, TFRecord<br>
-- [ ] Embedding visualization with TensorBoard<br>
-- [x] Usage of summary ops<br>
-- [ ] Exercises to be familiar with other special TensorFlow ops<br>
-- [x] Demonstration of the danger of lazy loading <br>
+- [ ] Examples on how to use data readers, TFRecord
+- [ ] Embedding visualization with TensorBoard
+- [x] Usage of summary ops
+- [ ] Exercises to be familiar with other special TensorFlow ops
+- [x] Demonstration of the danger of lazy loading 
 - [ ] Convolutional GRU (CRGU) (by Lukasz Kaiser)
 
 ### Note (as of July 11, 2017)
