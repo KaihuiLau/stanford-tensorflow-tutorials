@@ -3,7 +3,7 @@ This repository contains code examples for the course CS 20SI: TensorFlow for De
 It will be updated as the class progresses. <br>
 Detailed syllabus and lecture notes can be found here http://cs20si.stanford.edu <br><br>
 这里是斯坦福大学2017年课程，CS 20SI《深度学习研究中的 TensorFlow》所有示例和作业的代码。<br>
-课程大纲和课堂笔记可以在 https://web.stanford.edu/class/cs20si/syllabus.html 找到。<br>
+课程大纲、课堂笔记和PPT可以在 https://web.stanford.edu/class/cs20si/syllabus.html 找到。<br>
 
 # Jupyter Notebooks
 We are adding Jupyter notebooks for examples and assignments, with names "jupyter\_blah_blah.ipynb" under /assignments and /examples. You can now open up the notebook and execute and debug your TensorFlow code line by line! The converted notebooks are labelled with checks below.<br>
@@ -26,11 +26,13 @@ I've updated the code to TensorFlow 1.2 and Python3, except the code for chatbot
 - [ ] Deepdream (by Jon Shlens), 风格迁移<br>
 - [ ] Character-level language modeling, 生成语言模型<br>
 <br>
+
 ### In the folder "assignments":<br>
 - [ ] Style Transfer, 风格迁移<br>
 - [ ] Chatbot using sequence to sequence with attention, 基于seq2seq与注意力机制的聊天机器人<br>
 <br>
-## Misc<br>
+
+### Misc<br>
 - [ ] Examples on how to use data readers, TFRecord<br>
 - [ ] Embedding visualization with TensorBoard<br>
 - [x] Usage of summary ops<br>
