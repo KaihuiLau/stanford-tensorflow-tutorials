@@ -5,7 +5,7 @@ Detailed syllabus and lecture notes can be found here http://cs20si.stanford.edu
 这里是斯坦福大学2017年课程，CS 20SI《深度学习研究中的 TensorFlow》所有示例和作业的代码。<br>
 课程大纲、课堂笔记和PPT可以在 https://web.stanford.edu/class/cs20si/syllabus.html 找到。<br>
 
-# Jupyter Notebooks
+## Jupyter Notebooks
 We are adding Jupyter notebooks for examples and assignments, with names "jupyter\_blah_blah.ipynb" under /assignments and /examples. You can now open up the notebook and execute and debug your TensorFlow code line by line! The converted notebooks are labelled with checks below.<br>
 We also added the inline TensorBoard code, a useful tool for visualizing and debugging your graph. See [show_tf_graph.py](https://github.com/jiagengliu/stanford-tensorflow-tutorials/blob/master/examples/show_tf_graph.py) for instructions.
 The conversion is still in progress, and we welcome any pull requests!<br><br>
@@ -13,8 +13,10 @@ The conversion is still in progress, and we welcome any pull requests!<br><br>
 此外，Jupyter notebook 还支持实时查看 TensorBoard，详情参考 [show_tf_graph.py](https://github.com/jiagengliu/stanford-tensorflow-tutorials/blob/master/examples/show_tf_graph.py)<br>
 项目正在进行，欢迎提交pull request！<br> 
 
-# Note (as of July 11, 2017)
-I've updated the code to TensorFlow 1.2 and Python3, except the code for chatbot. I will update the code for chatbot soon.
+## Install TensorFlow
+Windows users often have trouble installing TensorFlow with GPU support on Windows. I have found a useful step-by-step installation. <br>
+Windows 用户在安装支持GPU的TensorFlow过程中经常遇到问题，下面这个链接给出了逐步的安装教程：<br>
+https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html
 
 ## Models include: <br>
 ### In the folder "examples": <br>
@@ -40,5 +42,5 @@ I've updated the code to TensorFlow 1.2 and Python3, except the code for chatbot
 - [x] Demonstration of the danger of lazy loading <br>
 - [ ] Convolutional GRU (CRGU) (by Lukasz Kaiser)
 
-
-
+### Note (as of July 11, 2017)
+I've updated the code to TensorFlow 1.2 and Python3, except the code for chatbot. I will update the code for chatbot soon.
