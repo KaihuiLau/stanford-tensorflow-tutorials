@@ -13,7 +13,7 @@ Detailed syllabus and lecture notes can be found here http://cs20si.stanford.edu
 4. Find and open examples folder with Jupyter notebook
 5. Start with jupyter_02_feed_dict.ipynb
 
-开始学习
+__开始学习__
 1. 安装 Python 和 Jupyter notebooks
 2. 安装 TensorFlow
 3. [克隆这个项目](https://github.com/jiagengliu/stanford-tensorflow-tutorials/archive/master.zip)
@@ -29,7 +29,7 @@ The conversion is still in progress, and we welcome any pull requests!
 此外，Jupyter notebook 还支持实时查看 TensorBoard，详情参考 [show_tf_graph.py](https://github.com/jiagengliu/stanford-tensorflow-tutorials/blob/master/examples/show_tf_graph.py)<br>
 项目正在进行，欢迎提交pull request！<br> 
 
-## Install TensorFlow 安装 TensorFlow
+## Install TensorFlow, 安装 TensorFlow
 Windows users often have trouble installing TensorFlow with GPU support on Windows. I have found a useful step-by-step installation. <br>
 Windows 用户在安装支持GPU的TensorFlow过程中经常遇到问题，下面这个链接给出了逐步的安装教程：<br>
 https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html
@@ -42,16 +42,16 @@ Code with checks indicate Jupyter notebooks.
 - [x] Word2vec skip-gram model with NCE loss, word2vec语言模型
 - [x] Convnets with MNIST, 卷积网络
 - [ ] Autoencoder (by Nishith Khandwala), 自编码机
-- [ ] Deepdream (by Jon Shlens), 风格迁移
-- [ ] Character-level language modeling, 生成语言模型
+- [ ] Deepdream (by Jon Shlens), Deepdream
+- [ ] Character-level language modeling, 字符级生成语言模型
 ### In the folder "assignments":
 - [ ] Style Transfer, 风格迁移
 - [ ] Chatbot using sequence to sequence with attention, 基于seq2seq与注意力机制的聊天机器人
 ### Misc<br>
-- [ ] Examples on how to use data readers, TFRecord
+- [x] Examples on how to use data readers, TFRecord
 - [ ] Embedding visualization with TensorBoard
 - [x] Usage of summary ops
-- [ ] Exercises to be familiar with other special TensorFlow ops
+- [x] Exercises to be familiar with other special TensorFlow ops
 - [x] Demonstration of the danger of lazy loading 
 - [ ] Convolutional GRU (CRGU) (by Lukasz Kaiser)
 
