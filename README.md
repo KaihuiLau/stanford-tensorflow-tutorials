@@ -13,7 +13,7 @@ Detailed syllabus and lecture notes can be found here http://cs20si.stanford.edu
 4. Find and open examples folder with Jupyter notebook
 5. Start with jupyter_02_feed_dict.ipynb
 
-__开始学习__
+### 开始学习
 1. 安装 Python 和 Jupyter notebooks
 2. 安装 TensorFlow
 3. [克隆这个项目](https://github.com/jiagengliu/stanford-tensorflow-tutorials/archive/master.zip)
@@ -30,9 +30,10 @@ The conversion is still in progress, and we welcome any pull requests!
 项目正在进行，欢迎提交pull request！<br> 
 
 ## Install TensorFlow, 安装 TensorFlow
-Windows users often have trouble installing TensorFlow with GPU support on Windows. I have found a useful step-by-step installation. <br>
-Windows 用户在安装支持GPU的TensorFlow过程中经常遇到问题，下面这个链接给出了逐步的安装教程：<br>
+Windows users often have trouble installing TensorFlow with GPU support on Windows. I have found a useful step-by-step installation. Also, take a look at @mrry's self check code if you have trouble.<br>
+Windows 用户在安装支持GPU的TensorFlow过程中经常遇到问题，下面两个链接分别给出了逐步的安装教程和系统自检代码：<br>
 https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html
+https://gist.github.com/mrry/ee5dbcfdd045fa48a27d56664411d41c
 
 ## Models include: <br>
 Code with checks indicate Jupyter notebooks. 
